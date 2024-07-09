@@ -2,7 +2,7 @@
 
 # 关于我们
 
-这里是汐学组 **\[ [主页](https://xistudygroup.github.io/XiStudyGroup/) | [GitHub](https://github.com/XiStudyGroup) \]**，一个致力于知识开源与分享的学生组织，并且正在努力扩大自己的影响力，以帮助到更多的人！
+这里是汐学组 **\[ [主页](https://xistudygroup.github.io/) | [GitHub](https://github.com/XiStudyGroup) \]**，一个致力于知识开源与分享的学生组织，并且正在努力扩大自己的影响力，以帮助到更多的人！
 
 无论是教程/指南/复习资料，我们都有制作，并稳定产出！🎉
 
