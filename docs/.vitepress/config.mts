@@ -25,7 +25,7 @@ export default defineConfig({
   }, 
   lastUpdated: true,
   lang: 'zh-CN',
-  base: '/SurviveXJTU/',
+  base: '/',
   title: "SurviveXJTU",
   description: "西安交大生存指南，更适合西交大学子的生存指南。",
   themeConfig: {
