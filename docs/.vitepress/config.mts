@@ -47,7 +47,7 @@ export default defineConfig({
       next: '下一页', 
     }, 
     editLink: { 
-      pattern: 'https://github.com/XiStudyGroup/SurviveXJTU/edit/main/docs/:path', // 改成自己的仓库
+      pattern: 'https://github.com/SurviveXJTU/SurviveXJTU.github.io/edit/main/docs/:path', // 改成自己的仓库
       text: '在GitHub编辑本页'
     }, 
     outline: {
@@ -182,7 +182,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/XiStudyGroup/SurviveXJTU' }
+      { icon: 'github', link: 'https://github.com/SurviveXJTU/SurviveXJTU.github.io' }
     ]
   }
 })
