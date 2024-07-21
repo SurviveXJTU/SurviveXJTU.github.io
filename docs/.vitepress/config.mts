@@ -72,6 +72,7 @@ export default defineConfig({
       { text: '研学篇', link: '/研学篇/' },
       { text: '路线篇', link: '/路线篇/' },
       { text: '保研篇', link: '/保研篇/' },
+      { text: '考研篇', link: '/考研篇/' },
       { text: '备考篇', link: '/备考篇/' },
       { text: '生活篇', link: '/生活篇/' },
       { text: '社团篇', link: '/社团篇/' }
@@ -166,6 +167,15 @@ export default defineConfig({
           { text: '竞赛是加分的来源', link: '/保研篇/竞赛是加分的来源' },
           { text: '科研是唯一的含金量', link: '/保研篇/科研是唯一的含金量' },
           { text: '保研外校', link: '/保研篇/保研外校' },
+        ]
+      },
+      {
+        text: '考研篇',
+        link: '/考研篇/',
+        collapsed: true,
+        items: [
+          { text: '择校经验', link: '/考研篇/择校经验' },
+
         ]
       },
       {
