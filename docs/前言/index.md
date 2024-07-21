@@ -34,5 +34,5 @@
 ## 访问量
 
 <div align: center>
-  <img src="https://count.getloli.com/get/@:survivexjtu.github.io?theme=rule34" alt="Counter">
+  <img src="https://count.getloli.com/get/@:survivexjtu.github.io?theme=rule34" alt=":survivexjtu.github.io" style="display: block; margin: 0 auto;">
 </div>
