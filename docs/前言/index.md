@@ -30,3 +30,12 @@
 ## 关于贡献
 
 本书的源码托管在 GitHub 上，欢迎各位同学进行贡献。一切与西安交通大学相关的资料，包括心态调整/学习方法/保研资讯/生活相关/新生入学/个人经历分享等，均是受欢迎的，假如说没有在当前的版块中找到自己希望投稿的内容的恰当归属，也可以致信 `2221110582@stu.xjtu.edu.cn` 并添加新的版块。详细的投稿指南，请参考 [贡献指南](贡献指南.md)。
+
+## 访问量
+
+<!-- 本站总访问量 <span id="busuanzi_value_site_pv" /> 次 -->
+<!-- 本站访客数 <span id="busuanzi_value_site_uv" /> 人次 -->
+
+<div align: center>
+  <img src="https://count.getloli.com/get/@:survivexjtu.github.io?theme=rule34" alt="Counter">
+</div>

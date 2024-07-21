@@ -6,7 +6,8 @@ import giscusTalk from 'vitepress-plugin-comment-with-giscus';
 import { useData, useRoute } from 'vitepress';
 import googleAnalytics from 'vitepress-plugin-google-analytics'
 import "./components/Layout.vue"
-
+import { inBrowser } from 'vitepress'
+import busuanzi from 'busuanzi.pure.js'
 
 import { 
   NolebaseEnhancedReadabilitiesMenu, 
@@ -53,6 +54,11 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
+    if (inBrowser) {
+      router.onAfterRouteChanged = () => {
+        busuanzi.fetch()
+      }
+    }
     googleAnalytics({
       id: 'G-Y4NJEXCBER', //跟踪ID，在analytics.google.com注册即可
     }),

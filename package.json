@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.2.0",
+    "busuanzi.pure.js": "^1.0.3",
     "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "^1.2.3",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
