@@ -5,6 +5,8 @@ import DefaultTheme from 'vitepress/theme'
 import giscusTalk from 'vitepress-plugin-comment-with-giscus';
 import { useData, useRoute } from 'vitepress';
 import googleAnalytics from 'vitepress-plugin-google-analytics'
+import "./components/Layout.vue"
+
 
 import { 
   NolebaseEnhancedReadabilitiesMenu, 
