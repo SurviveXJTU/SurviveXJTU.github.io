@@ -33,9 +33,6 @@
 
 ## 访问量
 
-<!-- 本站总访问量 <span id="busuanzi_value_site_pv" /> 次 -->
-<!-- 本站访客数 <span id="busuanzi_value_site_uv" /> 人次 -->
-
 <div align: center>
   <img src="https://count.getloli.com/get/@:survivexjtu.github.io?theme=rule34" alt="Counter">
 </div>
