@@ -110,7 +110,6 @@ export default defineConfig({
           { text: '报道相关', link: '/入学篇/报道相关' },
           { text: '推荐与不推荐做的事情', link: '/入学篇/推荐与不推荐做的事情' },
           { text: '开学考', link: '/入学篇/开学考' },
-          { text: '选课相关', link: '/入学篇/选课相关' },
           { text: '快问快答', link: '/入学篇/快问快答' },
         ]
       },
@@ -192,6 +191,7 @@ export default defineConfig({
         link: '/生活篇/',
         collapsed: true,
         items: [
+          { text: '选课相关', link: '/生活篇/选课相关' },
           { text: '食在交大', link: '/生活篇/食在交大' },
         ]
       },
