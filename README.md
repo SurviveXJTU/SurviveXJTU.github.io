@@ -14,6 +14,14 @@ pnpm install
 pnpm run docs:dev
 ```
 
+## 编译 PDF
+
+```shell
+pnpm run export-pdf
+```
+
+不过暂时编译并不是很优雅，导出的 PDF 也并未按照理想的顺序，暂不推荐。
+
 ## 贡献者
 
 <a href="https://github.com/SurviveXJTU/SurviveXJTU.github.io/graphs/contributors">
