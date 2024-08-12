@@ -7,7 +7,7 @@
     </div>
 </div>
 
-# 关于我们
+## 关于我们
 
 这里是汐学组 **\[ [主页](https://xistudygroup.github.io/) | [GitHub](https://github.com/XiStudyGroup) \]**，一个致力于知识开源与分享的学生组织，并且正在努力扩大自己的影响力，以帮助到更多的人！
 
@@ -54,6 +54,14 @@
 为了更好的阅读体验，本网站的全部颜色配置均按照浅色模式进行设置，移动端的颜色切换模式并不灵活，而 Vitepress 当前存在一些 bug，使得不存在默认浅色同时支持切换颜色的选项，因此本网站默认浅色模式，并关闭了浅色与深色切换的选项。
 
 如对于深色模式存在刚需，请在本篇的评论区留言，我们会尽快进行优化。
+
+## 致谢
+
+特别感谢 [VitePress](https://vitepress.dev/zh/), [Nólëbase 集成](https://nolebase-integrations.ayaka.io/pages/zh-CN/) 以及 [VitePress 快速上手中文教程](https://vitepress.yiov.top/) 等开源项目与教程，SurviveXJTU 的诞生离不开这些开源项目的支持。
+
+特别感谢 [上海交大生存指南](https://survivesjtu.gitbook.io/survivesjtumanual)，SurviveXJTU 的诞生离不开上海交大生存指南的启发，这本令人敬畏的书籍给予了笔者无尽的灵感。
+
+特别感谢 [钱·入学指南](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzMzUxNDk1OA==&action=getalbum&album_id=3584767703459889164#wechat_redirect)，我们的初衷相同，我们的理想相似，本指南部分内容参考了钱·入学指南，并感谢钱学森书院的作者们的无私奉献。
 
 ## 访问量
 
