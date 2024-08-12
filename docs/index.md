@@ -11,6 +11,9 @@ hero:
       text: 前言
       link: /前言/
     - theme: alt
+      text: 贡献指南
+      link: /前言/贡献指南
+    - theme: alt
       text: 快问快答
       link: /入学篇/快问快答
   image:
