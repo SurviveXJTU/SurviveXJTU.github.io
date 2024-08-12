@@ -4,6 +4,7 @@ import { generateSidebar } from 'vitepress-sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  appearance: false,
   markdown: {
     image: {
       lazyLoading: true
