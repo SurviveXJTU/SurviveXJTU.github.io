@@ -1,5 +1,10 @@
-<div>
-    <img src="../images/title.png" alt="title" style="display: block; margin: 0 auto; zoom: 40%;">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 10px;">
+        <img src="../images/title.png" alt="title" style="zoom: 40%;">
+    </div>
+    <div style="margin-left: 10px;">
+        <img src="../images/SurviveXJTU.png" alt="SurviveXJTU" style="zoom: 15%;">
+    </div>
 </div>
 
 # 关于我们
