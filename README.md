@@ -10,8 +10,8 @@
 git clone https://github.com/SurviveXJTU/SurviveXJTU.github.io.git
 cd SurviveXJTU.github.io
 npm install -g pnpm
-pnpm install
-pnpm run docs:dev
+pnpm i
+pnpm dev
 ```
 
 ## 编译 PDF
