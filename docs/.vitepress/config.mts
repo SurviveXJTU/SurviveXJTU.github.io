@@ -88,6 +88,7 @@ export default defineConfig({
           { text: '笔者的话', link: '/前言/笔者的话' },
           { text: '创作者说', link: '/前言/创作者说' },
           { text: '贡献指南', link: '/前言/贡献指南' },
+          { text: '征集', link: '/前言/征集' },
         ]
       },
       {

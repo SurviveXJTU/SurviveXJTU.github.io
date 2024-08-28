@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 前言
       link: /前言/
+    - theme: brand
+      text: 🎉征集
+      link: /前言/征集
     - theme: alt
       text: 贡献指南
       link: /前言/贡献指南
