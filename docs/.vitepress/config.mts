@@ -97,6 +97,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '关于西交', link: '/人生篇/关于西交' },
+          { text: '人生思考', link: '/人生篇/人生思考'} 
           { text: '你想要成为什么样的人', link: '/人生篇/你想要成为什么样的人' },
           { text: '种一棵树', link: '/人生篇/种一棵树' },
           { text: '接受失败', link: '/人生篇/接受失败' },
