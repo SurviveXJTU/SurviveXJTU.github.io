@@ -111,6 +111,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: '学生群', link: '/入学篇/学生群' },
+          { text: '学生', link: '/入学篇/学生' },
           { text: '开学携带的东西', link: '/入学篇/开学携带的东西' },
           { text: '报道相关', link: '/入学篇/报道相关' },
           { text: '推荐与不推荐做的事情', link: '/入学篇/推荐与不推荐做的事情' },
